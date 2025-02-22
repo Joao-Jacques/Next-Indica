@@ -9,7 +9,7 @@ export default function Home() {
 			<div className="flex flex-col gap-8 items-center md:items-start">
 				<Image src={logo} alt="devstage" width={108.5} height={30} />
 				<h1 className="text-4xl text-center leading-none font-heading font-medium flex flex-col md:text-7xl md:text-left">
-					<span>Code Craft </span>
+					<span className="text-purple">Next Indica</span>
 					Summit 2025
 				</h1>
 			</div>
@@ -25,13 +25,13 @@ export default function Home() {
 						</span>
 					</div>
 					<p className="text-gray-300 leading-relaxed text-sm md:text-base">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit . Sed do
-						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-						ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-						aliquip ex ea commodo consequat.
+						Conheça as novidades do ecossistema Next.js e React, com palestras
+						exclusivas de especialistas da Vercel e da comunidade. Aprenda sobre
+						performance, SEO, acessibilidade, testes, design systems e muito
+						mais.
 						<br />
 						<br />
-						Dias 15 e 16 de Outubro de 2025
+						Dias 17 e 20 de fevereiro de 2025
 					</p>
 				</div>
 				<SubscriptionForm />
