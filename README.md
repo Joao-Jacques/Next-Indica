@@ -13,11 +13,11 @@ To install the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/REP-Next-Indica.git
+    git clone https://github.com/yourusername/Next-Indica.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd REP-Next-Indica
+    cd Next-Indica
     ```
 3. Install the dependencies:
     ```bash
